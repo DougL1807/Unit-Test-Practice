@@ -1,0 +1,24 @@
+{
+  "name": "unit-test-practice",
+  "version": "1.0.0",
+  "description": "JEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DougL1807/Unit-Test-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DougL1807/Unit-Test-Practice/issues"
+  },
+  "homepage": "https://github.com/DougL1807/Unit-Test-Practice#readme",
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
