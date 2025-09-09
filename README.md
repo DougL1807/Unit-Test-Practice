@@ -1,5 +1,6 @@
 # Unit-Test-Practice
 JEST
+
 expect(value).toBe(4);                    // Exact equality
 expect(value).toEqual({name: 'John'});    // Deep equality
 expect(value).toBeTruthy();               // Truthy value
